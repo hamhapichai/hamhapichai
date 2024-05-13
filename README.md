@@ -3,18 +3,12 @@
 </h1>
 
 ## Hello there! 👋
-My name is Apichai Butdee, You can call me Ham🍔.
-
-- 👨‍🎓 Senior Computer Sci student at Kampheang Phet Rajabhat University
-
-- 🙋‍♂️ I am always energetic and eager to learn new skills.
+My name is Apichai Butdee, You can call me Ham🍔. Software Engineer with Office syndrome 😂.
 
 ## Skills
 - 👨‍💻 C#, Golang, Dart, Python, Java, C++, VB.<span>NET, JavaScript, PHP, Arduino C
-- ⚙️ Dotnet, Angular, React, Robot Framework Selenium
+- ⚙️ Spring Boot, Dotnet, Angular, React, Robot Framework Selenium
 - 💽 SQL, Firebase RTDB, MongoDB
-- 📑 Word, Power Point, Excel
-- 🎨 Photoshop, Vegas, Premiere Pro, Final Cut
 
 ## Hobbies
 - FPS Gamer 🎮
